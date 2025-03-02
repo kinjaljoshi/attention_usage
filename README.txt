@@ -29,5 +29,5 @@ dk - is the dimension of the key space
 softmax - Converts scores into a probability distribution.
 V - Weighted sum of values
 
-softmax(similarity score) V - How much influence will each work have on final encoding of a gievn word.
+softmax(similarity score) V - How much influence will each word have on final encoding of a gievn word.
 
